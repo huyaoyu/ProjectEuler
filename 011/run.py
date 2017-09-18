@@ -20,7 +20,7 @@ import numpy as np
 #
 # This code utilized the diagonal() function provided by numpy.
 # 
-# Remember that the opposite diagonal should be also tested.
+# Remember that the opposite diagonals should be also tested.
 #
 #
 
