@@ -21,7 +21,7 @@ import numpy as np
 # Python provides a package with the name of datetime. This package
 # should do the trick. 
 # 
-# But I decide to to it by myself.
+# But I decided to do it by myself.
 #
 # And it turns out that 1200/7 is a fairly accurate approximation of
 # this problem. Brilliant!
