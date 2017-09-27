@@ -40,7 +40,9 @@ def find_divisors(n):
 	for d in range(2, sqrtN+1):
 		if n % d == 0:
 			pd.append(d)
-			pd.append(int(n/d))
+			pair = int(n/d)
+			if not pair == d:
+				pd.append(pair)
 
 	return pd
 
